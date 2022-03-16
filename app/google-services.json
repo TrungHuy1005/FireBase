@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "781106153081",
+    "firebase_url": "https://test-4a7a9-default-rtdb.firebaseio.com",
+    "project_id": "test-4a7a9",
+    "storage_bucket": "test-4a7a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781106153081:android:406a2826fcbdb855d2f6a8",
+        "android_client_info": {
+          "package_name": "huyueh.edu.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781106153081-uqhshrrteqq7abjkpf8922rvou4726de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH5xCB4yomXZ-DNMitWFMP-ZI1YEfJuqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781106153081-uqhshrrteqq7abjkpf8922rvou4726de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
